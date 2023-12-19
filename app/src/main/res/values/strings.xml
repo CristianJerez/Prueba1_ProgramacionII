@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RestauranteKT</string>
+    <string name="CazuelaTitle">Cazuela de vacuno:</string>
+    <string name="PastelTitle">Pastel de choclo:</string>
+    <string name="PastePrice">$0</string>
+    <string name="CazuelaPrice">$0</string>
+    <string name="lblCantidad">Cant.</string>
+    <string name="lblComida">Comida</string>
+    <string name="lblPropina">Propina</string>
+    <string name="lblTotal">Total</string>
+    <string name="montoComida">$0 </string>
+    <string name="montoPropina">$0 </string>
+    <string name="montoTotal">$0 </string>
+</resources>
